@@ -1,0 +1,40 @@
+# Digital Publishing Libraries
+
+This repository contains a collection of digital publishing libraries that provide tools and resources for creating and managing digital publications. Whether you are working on an ebook, interactive magazine, or other digital content, these libraries can assist you in various aspects of the publishing process. The repository includes open-source and community-driven projects that offer a range of features and capabilities.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Included Libraries](#included-libraries)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+Digital publishing has revolutionized the way we consume and distribute content. From ebooks and digital magazines to interactive presentations, there is a growing demand for tools and libraries that facilitate the creation of immersive and engaging digital publications. This repository aims to bring together a curated collection of libraries that can empower developers and content creators in their digital publishing endeavors.
+
+## Included Libraries
+
+This repository includes the following digital publishing libraries:
+
+- ABC.js: A JavaScript library for rendering sheet music in the browser.
+- ePub.js: A JavaScript library for rendering EPUB documents, providing an interactive reading experience.
+- PDF.js: A JavaScript library for rendering PDF documents in the browser.
+- Textractor: A Python library for extracting text from various document formats, such as PDF, DOCX, and EPUB.
+- Puppeteer: A Node.js library for automating browser actions, useful for generating screenshots or PDFs of web content.
+
+Each library directory contains relevant documentation, examples, and resources specific to that library. Feel free to explore each directory to find more information about a particular library.
+
+## Installation
+
+For installation instructions and requirements for each library, please refer to the respective directories. You will find detailed installation guides and any specific dependencies needed to use the libraries in your projects.
+
+## Usage
+
+Once you have installed the desired library, you can explore the provided documentation and examples to learn how to leverage its features in your digital publishing projects. The libraries offer various functionalities, such as rendering, interactive elements, text extraction, and automation, to enhance your publishing workflow.
+
+## Contributing
+
+Contributions are welcome to
